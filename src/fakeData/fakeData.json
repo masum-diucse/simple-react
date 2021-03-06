@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Soumya Sarker",
+    "email": "soumya-sarker@gmail.com",
+    "address": "Bangladesh",
+    "price": 5500000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg"
+  }, {
+    "id": 2,
+    "name": "Mashrafe bin Mortaza",
+    "email": "mashrafe-bin-mortaza@gmail.com",
+    "address": "Bangladesh",
+    "price": 5000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
+  }, {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "email": "mushfiqur-rahim@gmail.com",
+    "address": "Bangladesh",
+    "price": 5000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "id": 4,
+    "name": "Tamim Iqbal",
+    "email": "tamim-iqbal@gmail.com",
+    "address": "Bangladesh",
+    "price": 5000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+  }, {
+    "id": 5,
+    "name": "Mahmudullah Riyad",
+    "email": "mahmudullah-riyad@gmail.com",
+    "address": "Bangladesh",
+    "price": 5000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+  }, {
+    "id": 6,
+    "name": "Liton Das",
+    "email": "liton-das@gmail.com",
+    "address": "Bangladesh",
+    "price": 4000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg"
+  }, {
+    "id": 7,
+    "name": "Mustafizur Rahman",
+    "email": "mustafizur-rahman@gmail.com",
+    "address": "Bangladesh",
+    "price": 4000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+  }, {
+    "id": 8,
+    "name": "Shahid Afridi",
+    "email": "shahid-afridi@gmail.com",
+    "address": "Pakistan",
+    "price": 17000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146389/shahid-afridi.jpg"
+  }, {
+    "id": 9,
+    "name": "Zaheer Khan",
+    "email": "zaheer-khan@gmail.com",
+    "address": "India",
+    "price": 4200000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c150980/zaheer-khan.jpg"
+  }, {
+    "id": 10,
+    "name": "Lasith Malinga",
+    "email": "lasith-malinga@gmail.com",
+    "address": "Sri Lanka",
+    "price": 12500000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170724/lasith-malinga.jpg"
+  }, {
+    "id": 11,
+    "name": "Taskin Ahmed",
+    "email": "taskin-ahmed@gmail.com",
+    "address": "Bangladesh",
+    "price": 1800000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg"
+  }, {
+    "id": 12,
+    "name": "Mohammad Irfan",
+    "email": "mohammad-irfan@gmail.com",
+    "address": "Pakistan",
+    "price": 6300000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154971/mohammad-irfan.jpg"
+  }, {
+    "id": 13,
+    "name": "Rubel Hossain",
+    "email": "rubel-hossain@gmail.com",
+    "address": "Bangladesh",
+    "price": 1200000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg"
+  }, {
+    "id": 14,
+    "name": "Evin Lewis",
+    "email": "evin-lewis@gmail.com",
+    "address": "West Indies",
+    "price": 17000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170785/evin-lewis.jpg"
+  }, {
+    "id": 15,
+    "name": "Chris Gayle",
+    "email": "chris-gayle@gmail.com",
+    "address": "West Indies",
+    "price": 20000000,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg"
+  }]
